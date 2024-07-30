@@ -1,0 +1,1 @@
+One of the first JavaScript projects I worked on - use the side-arrow keys to move the falling blocks sidewards. Use the up-arrow key to rotate the current block. Use the down-arrow key to make the block fall faster. Your aim is to complete a line of falling-blocks together - which will gain you 10 points for each line.
